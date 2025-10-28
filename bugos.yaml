@@ -1,18 +1,18 @@
 scheme: "BugOS"
 author: "Kaylee"
-base00: "282936" #background
-base01: "3a3c4e"
-base02: "4d4f68"
-base03: "626483"
-base04: "62d6e8"
-base05: "e9e9f4" #foreground
-base06: "f1f2f8"
-base07: "f7f7fb"
-base08: "ea51b2"
-base09: "b45bcf"
-base0A: "00f769"
-base0B: "ebff87"
-base0C: "a1efe4"
-base0D: "62d6e8"
-base0E: "b45bcf"
-base0F: "00f769"
+base00: "21222c"   # Background - very dark grayish blue (main background)
+base01: "3a3c4e"   # Variation - dark desaturated blue-gray
+base02: "4d4f68"   # Variation - muted indigo gray
+base03: "6272a4"   # Comment / Selection - muted periwinkle blue
+base04: "8be9fd"   # Cyan - variables, types, or emphasis
+base05: "e9e9f4"   # Foreground - very light grayish lavender
+base06: "f1f2f8"   # Variation - off-white with cool tint
+base07: "f7f7fb"   # Variation - near white
+base08: "ff79c6"   # Pink - identifiers, tags, or emphasis
+base09: "bd93f9"   # Purple - functions, keywords, or accents
+base0A: "50fa7b"   # Green - success, additions, or strings
+base0B: "f1fa8c"   # Yellow - warnings, highlights, or constants
+base0C: "a4ffff"   # Bright Cyan - light cyan highlight
+base0D: "ff92df"   # Bright Pink - lighter magenta accent
+base0E: "d6acff"   # Bright Purple - soft lavender highlight
+base0F: "69ff94"   # Bright Green - lighter green accent
