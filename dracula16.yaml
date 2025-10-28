@@ -1,0 +1,18 @@
+scheme: "dracula16"
+author: "Kaylee"
+base00: "21222c"  # Background - very dark grayish blue (main background)
+base01: "282a36"  # Darker background (selection, subtle contrast)
+base02: "44475a"  # Comments background - muted gray-blue
+base03: "6272a4"  # Comments / Selection - muted periwinkle blue
+base04: "f8f8f2"  # Light foreground - off-white (default text)
+base05: "f8f8f2"  # Foreground - main text color
+base06: "f8f8f2"  # Bright foreground (same as base05 in Dracula)
+base07: "ffffff"  # Pure white - brightest contrast
+base08: "ff5555"  # Red - errors, deletions
+base09: "ffb86c"  # Orange - warnings, accents (Dracula orange)
+base0A: "f1fa8c"  # Yellow - highlights, constants
+base0B: "50fa7b"  # Green - strings, success
+base0C: "8be9fd"  # Cyan - variables, types
+base0D: "bd93f9"  # Blue / Purple - functions, keywords
+base0E: "ff79c6"  # Magenta / Pink - tags, emphasis
+base0F: "ff6e6e"  # Bright Red / Deprecated - special identifiers
